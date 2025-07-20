@@ -111,8 +111,7 @@ In this table you can see the days every team member worked on and the hours we 
 
 This is how we split the workload, we tried to split it in a way so that every developer would at least work on one backend service:
 
-|Member   | Responsibilities                                                                      |
-|Initials | 											  |
+|Initials | Responsibilities                                                                      |
 |---------|---------------------------------------------------------------------------------------|
 |   HH    | JavaFX UI (automatic loading of PDF), DataCollectionDispatcher, PDFGenerator, Testing |
 |   KX    | JavaFX UI (GUI), StationDataCollector, PDFGenerator, UML Diagram, Testing             |
