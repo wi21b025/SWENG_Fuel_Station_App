@@ -2,7 +2,7 @@
 
 ## About the project
 
-This project as a team for our company which manages charging stations for electric cars. The goal of this project is the fullstack development 
+This project was done as a team for our company which manages charging stations for electric cars. The goal of this project is the fullstack development 
 of a Fuel Station App. Customers can use this application to generate invoices for their electric car charging activities. 
 
 For the frontend we used a simple JavaFX UI and to build our API we used the SpringBoot framework. 
